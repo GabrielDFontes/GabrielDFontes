@@ -27,8 +27,21 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Banco de Dados & Infra
+## Linguagens e Tecnologias 🔧
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java" height="65"/>
+<img src="https://skillicons.dev/icons?i=python" height="65"/>
+<img src="https://skillicons.dev/icons?i=spring" height="65"/>
+<img src="https://skillicons.dev/icons?i=react" height="65"/>
+<img src="https://skillicons.dev/icons?i=html" height="65"/>
+<img src="https://skillicons.dev/icons?i=css" height="65"/>
+<img src="https://skillicons.dev/icons?i=js" height="65"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="65"/>
+<img src="https://skillicons.dev/icons?i=typescript" height="65"/>
+<img src="https://skillicons.dev/icons?i=docker" height="65"/>
+<img src="https://skillicons.dev/icons?i=git" height="65"/>
+<img src="https://skillicons.dev/icons?i=github" height="65"/>
+
+</p>
