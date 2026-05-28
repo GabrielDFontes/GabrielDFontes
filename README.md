@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Gabriel Almeida Dantas Fontes
+#  Gabriel Almeida Dantas Fontes
 
 <p align="center">
   <b>Computer Science Student | Backend Developer | Java & IA</b>
@@ -10,83 +10,6 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-API-success" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-black" />
 </p>
-
----
-
-## 🚀 Sobre Mim
-
-🎓 Estudante de **Ciência da Computação (5º período)** na **Universidade Tiradentes – UNIT**.
-
-💻 Atualmente desenvolvendo habilidades técnicas e práticas em **desenvolvimento backend, automações, APIs REST, IA aplicada e sistemas de gestão**, criando soluções voltadas para **varejo, saúde e automação de processos**.
-
-📚 Em constante evolução através de cursos, bootcamps e projetos práticos para aprofundamento em **Java, Spring Boot, Node.js, APIs, Docker e Inteligência Artificial**.
-
----
-
-## 🏗️ Projetos em Destaque
-
-### 🛍️ Sistema para Varejo
-
-Desenvolvimento de soluções para o setor varejista com:
-
-* Controle de estoque;
-* Gestão financeira;
-* Página personalizada para centralização de múltiplos links (Instagram Bio Link);
-* Integração com site, redes sociais e localização;
-* Chatbot no WhatsApp e Instagram;
-* Atendimento automatizado;
-* Delivery e pedidos rápidos;
-* Fluxos de pós-venda.
-
-### 🏥 Plataforma para Clínicas *(Em desenvolvimento)*
-
-Projeto voltado para gestão da jornada do paciente:
-
-* Agendamentos;
-* Prontuário eletrônico;
-* Automação de laudos e atestados;
-* Solicitação de exames;
-* Gestão financeira.
-
-### 🌐 Extensão Chrome para CRM + Atendimento
-
-Criação de uma extensão para **Google Chrome** que permitia a visualização customizada de dados do **RD Station CRM** dentro da plataforma **JetGo (Jetsales)**, utilizando:
-
-**HTML • CSS • JavaScript • React**
-
-### 🧬 API para Fundação de Saúde Parreiras Horta (FSPH)
-
-Desenvolvimento de uma **API REST em Spring Boot** para gerenciamento de:
-
-* Cadastro de amostras biológicas;
-* Envio e controle de amostras;
-* Integração com prefeituras;
-* Controle de acesso com **JWT Authentication**.
-
-Objetivo: gerenciamento das amostras enviadas ao **LACEN/SE**.
-
-### 🚗 Data Engineering & Business Intelligence
-
-Construção de:
-
-* Pipeline **ETL em Python**;
-* **Data Warehouse**;
-* Modelagem de dados;
-* Visualizações analíticas para negócio.
-
-Objetivo: apoiar análises de vendas de veículos novos e usados na **AutoPrime**, identificando padrões de venda e performance por revendedor.
-
-### 🤖 Gateway Inteligente para Agentes de IA
-
-Desenvolvimento de um **gateway inteligente sobre a API Filazero**, transformando endpoints REST complexos em **tools padronizadas para agentes de IA**, permitindo integração conversacional com:
-
-* GPT
-* Claude
-* MCP Clients
-
-Tecnologias utilizadas:
-
-**Node.js • TypeScript • MCP SDK • Docker • Nginx**
 
 ---
 
