@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science-5º%20Período-blue" />
+  <img src="https://img.shields.io/badge/Computer%20Science-6º%20Período-blue" />
   <img src="https://img.shields.io/badge/Java-Backend-orange" />
   <img src="https://img.shields.io/badge/Spring%20Boot-API-success" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-black" />
